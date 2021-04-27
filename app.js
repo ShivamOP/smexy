@@ -60,18 +60,16 @@ mongoose
 // Utils
 require('./utils/serverstats.js')(bot);
 require('./utils/functions.js')(bot);
-require('./utils/messageevent.js')(bot)
 
 console.log('Loaded Utils!');
 
 // COMMAND handler
 let length = 0;
-const mainfolder = fs.readdirSync('./commands/').filter(d => d !== 'tickets');
+const mainfolder = fs.readdirSync('./commands/');
 for (const mainfiles of mainfolder) {
 	const mainfolders = fs
 		.readdirSync(`./commands/${mainfiles}/`)
-		.filter(file => file.endsWith('.js'))
-		.filter(file => file !== 'search.js');
+		.filter(file => file.endsWith('.js'));
 
 	for (const commands of mainfolders) {
 		length += 1;
@@ -93,63 +91,7 @@ fs.readdir('./events/', (err, files) => {
 	console.log(`Loaded ${files.length} Events !`);
 });
 
-////////////////////////////////////////////////////////////////
-/////////////////////// DBD. JS /////////////////////////
-/////////////////////////////////////////////////////////////
 
-// CONST KA JUNGLE LOL
-/* const dbd = require("dbd.js")
-const client = new dbd.Bot({
-token: process.env.TOKEN, 
-prefix: '$getServerVar[prefix]'
-})
-
-
-// CALLBACKS
-client.onMessage()
-
-
-client.variables({
-  prefix: ">"
-})
-// HANDLER
-let dir = fs.readdirSync('./DBD.JS/');
-
-let i = 0;
-
-handler: while (i < dir.length) {
-    const stat = fs.statSync('./DBD.JS/' + dir[i]);
-
-    if (stat.isDirectory()) {
-        const readdir = fs.readdirSync('./DBD.JS/' + dir[i]);
-
-        let nums = 0;
-        while (nums < readdir.length) {
-            dir.push(dir[i] + '/' + readdir[nums]);
-            nums++;
-        }
-        i++;
-        continue handler;
-    } else if (stat.isFile()) {
-        const command = require('./DBD.JS/' + dir[i]);
-        try {
-            client[Object.keys(command)[0]](command[Object.keys(command)[0]]);
-            i++;
-            continue handler;
-        } catch (err) {
-            console.error(err.message);
-            delete dir[i];
-
-            continue handler;
-        }
-    } else {
-        console.error('Directory was not a Folder or File');
-        delete dir[i];
-
-        continue handler;
-    }
-} 
-*/
 // EXTRA
 
 bot.on("ready", () => {

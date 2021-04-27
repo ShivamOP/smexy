@@ -33,9 +33,17 @@ Smexy bot is licensed under the GPL 3.0 license. See the file LICENSE for more i
 ## Important Links ##
 [Invite](https://discord.com/oauth2/authorize?client_id=799540871552434186&permissions=2147483647&scope=bot) - Bot's Invite
 [Support Server](https://discord.gg/Xa9CyVbBPB) - Bot's Support Server Invite
-## Credits ##
-[Shivam](https://discord.bio/p/shivamop) - Owner/Developer
-[Ocean](https://discord.gg/crEHyPxWCw) - Helper/Staff
+## Credits ##<div align="center">
+<table>
+  <tr>
+     <td align="center"><a href="https://discord.bio/p/shivamop"><img src="https://cdn.discordapp.com/avatars/745867528651276318/26fd826fc28f1589a14887b491c90868.webp?size=512" width="100px;" alt="Shivam"/><br /><sub><b>Shivam</b></sub></a><br /><a href="https://discord.bio/p/shivamop" title="Owner">👑</a></td>
+     <td align="center"><a href="https://cdn.discordapp.com/avatars/494738882617933830/68c4ebd9c4813374d2b421f8fef414b3.webp?size=512" width="100px;" alt=""/><br /><sub><b>Ocean</b></sub></a><br /><a href="https://github.com/OceanKumar" title="Developer">💻</a></td>
+     
+  </tr>
+  
+</table>
+</div>
+
 © Smexy Bot - All Rights Reserved
 :---:
 Made with ❤ by **[Shivam](https://discord.bio/p/shivamop)**

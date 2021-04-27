@@ -33,7 +33,7 @@ Smexy bot is licensed under the GPL 3.0 license. See the file LICENSE for more i
 ## Important Links ##
 [Invite](https://discord.com/oauth2/authorize?client_id=799540871552434186&permissions=2147483647&scope=bot) - Bot's Invite
 [Support Server](https://discord.gg/Xa9CyVbBPB) - Bot's Support Server Invite
-;---;
+:---:
 ## Credits ##
 <div align="left">
 <table>

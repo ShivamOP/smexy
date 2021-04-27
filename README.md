@@ -45,5 +45,3 @@ Smexy bot is licensed under the GPL 3.0 license. See the file LICENSE for more i
 </div>
 
 © Smexy Bot - All Rights Reserved
-:---:
-Made with ❤ by **[Shivam](https://discord.bio/p/shivamop)**

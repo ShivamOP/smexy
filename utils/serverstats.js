@@ -1,4 +1,7 @@
-const db = require("quick.db")
+// note this server syays system is bugged xd
+
+
+onst db = require("quick.db")
 
 module.exports = async(bot) => {
 

@@ -32,8 +32,9 @@ The default prefix is > .Type >help for a list of commands. The prefix is change
 Smexy bot is licensed under the GPL 3.0 license. See the file LICENSE for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
 ## Important Links ##
 [Invite](https://discord.com/oauth2/authorize?client_id=799540871552434186&permissions=2147483647&scope=bot) - Bot's Invite
-[Support Server](https://discord.gg/Xa9CyVbBPB) - Bot's Support Server Invite
 :---:
+[Support Server](https://discord.gg/Xa9CyVbBPB) - Bot's Support Server Invite
+
 ## Credits ##
 <div align="left">
 <table>

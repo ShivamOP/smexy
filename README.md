@@ -1,7 +1,10 @@
-# **Smexy** #
-![Smexy](https://cdn.discordapp.com/avatars/799540871552434186/df5bc4fb784d39cbef780f9dc1101d6d.webp?size=512)
 
-`Smexy is a multi-purpose discord bot ready to skill up and boost up your Discord server! It has about 200 commands. It's Mee6, Dyno, Dank Member and Hydra Combined Together :)`
+# **Smexy** #
+<div align="center">
+<p align="center"><a href="https://discord.com/oauth2/authorize?client_id=799540871552434186&permissions=2147483647&scope=bot"><img src="https://cdn.discordapp.com/avatars/799540871552434186/df5bc4fb784d39cbef780f9dc1101d6d.png?size=512" width="200"></a></p><br>
+<p align="center">Smexy is a multi-purpose discord bot ready to skill up and boost up your Discord server! It has about 200 commands. It's Mee6, Dyno, Dank Member and Hydra Combined Together :)</p>
+<br></div>
+
 
 
 ## Features ##

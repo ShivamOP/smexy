@@ -5,7 +5,26 @@ Smexy is a multi-purpose discord bot ready to skill up and boost up your Discord
 
 
 ## Features ##
-Giveaways | Moderation | Information | Reaction Roles | Music | Fun And Games | Text | Emote | logging | Utility | Custom Commands | World Chat | Suggestions | Welcomer and Goodbyer | Leveling | Messages Counter | Invites Manage | Support | Afk System and Much More! 
+
+- [x] Giveaways 
+- [x] Moderation 
+- [x] Information 
+- [x] Reaction Roles 
+- [x] Music 
+- [x] Fun And Games 
+- [x] Text 
+- [x] Emote
+- [x] Utility
+- [x] Custom Commands 
+- [x] World Chat 
+- [x] Suggestions 
+- [x] Welcomer and Goodbyer  
+- [x] Leveling 
+- [x] Messages Counter
+- [x] Invites Management 
+- [x] Support 
+- [x] Afk System 
+
 
 ## More Information ##
 The default prefix is > .Type >help for a list of commands. The prefix is changeable for your server using the prefix command. A fully customizable Discord bot for your Discord server that is easy to use and handle.It's updated frequently with new features and enhancements. If there are any features that you would like to see, request them in our Discord server! New features are built off what users ask for.

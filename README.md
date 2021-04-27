@@ -37,7 +37,7 @@ Smexy bot is licensed under the GPL 3.0 license. See the file LICENSE for more i
 <table>
   <tr>
      <td align="center"><a href="https://discord.bio/p/shivamop"><img src="https://cdn.discordapp.com/avatars/745867528651276318/26fd826fc28f1589a14887b491c90868.webp?size=512" width="100px;" alt="Shivam"/><br /><sub><b>Shivam</b></sub></a><br /><a href="https://discord.bio/p/shivamop" title="Owner">👑</a></td>
-     <td align="center"><a href="https://github.com/OceanKumar"><img src="https://cdn.discordapp.com/avatars/745867528651276318/26fd826fc28f1589a14887b491c90868.webp?size=512" width="100px;" alt="Ocean"/><br /><sub><b>Ocean</b></sub></a><br /><a href="https://github.com/OceanKumar" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/OceanKumar"><img src="https://cdn.discordapp.com/avatars/494738882617933830/68c4ebd9c4813374d2b421f8fef414b3.webp?size=512" width="100px;" alt="Ocean"/><br /><sub><b>Ocean</b></sub></a><br /><a href="https://github.com/OceanKumar" title="Developer">💻</a></td>
      
   </tr>
 </table>
